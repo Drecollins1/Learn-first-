@@ -1,0 +1,18 @@
+ <div class="card">
+            <div class="container">
+              <div class="col-md-8">
+                <div class="card-body card-img">
+                  <div class="col">
+                  <h3 class="card-title">ABOUT US</h3> <br><br>
+                  <p class="card-text">Welcome to Learn First Skills and Education. We assist people in the acquisition of quality skills and education, regardless of underlying socio-economic limitations.</p>
+                  <p class="card-text">We believe that one student at a time, we can gradually transform the mind, the community and the society at large. We focus on mitigating barriers that result in underachievement thereby creating unlimited life opportunities.</p>
+                  <button type="button" class="btn btn-warning">READ MORE</button> <br>
+                  </div>
+                  <div class="image">
+                    <img src="./img/books.png" class="img-fluid " alt="...">
+                  </div>
+                </div>
+                
+              </div> <br>
+            </div>
+          </div>
